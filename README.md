@@ -35,16 +35,22 @@ Technologies Used :
 HTML: Structure of the website.
 CSS: Styling and layout.
 JavaScript: Interactive loader and functionality.
-<<<<<<< HEAD
 
-Innovative Feature
 
-The portfolio integrates a personalized interactive animation as its standout feature. This loader dynamically adapts based on user input or browser activity, offering a seamless transition into the website. It not only captivates the visitor's attention but also demonstrates my technical proficiency and creativity.
+Innovative Feature:
 
-Color Palette and Visual Appeal
+The portfolio integrates a personalized interactive animation as its standout feature. 
+This loader dynamically adapts based on user input or browser activity, offering a seamless 
+transition into the website. It not only captivates the visitor's attention but also demonstrates 
+my technical proficiency and creativity.
 
-This project utilizes a carefully selected color palette of light blue and purple, designed to create a modern and professional aesthetic. You can explore the full palette and its details through the following URL:["https://coolors.co/palette/5465ff-788bff-9bb1ff-bfd7ff-e2fdff"]
-The design is consistent, harmonious, and aligns with the portfolio's creative theme, enhancing usability and engagement.
+Color Palette and Visual Appeal:
 
-=======
->>>>>>> 152b3552e57234f411573353bda800aec4f1c410
+This project utilizes a carefully selected color palette of light blue and purple, designed to create
+a modern and professional aesthetic. You can explore the full palette and its details through the following URL:
+["https://coolors.co/palette/5465ff-788bff-9bb1ff-bfd7ff-e2fdff"]
+The design is consistent, harmonious, and aligns with the portfolio's creative theme, enhancing usability and 
+engagement.
+
+
+
