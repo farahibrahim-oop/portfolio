@@ -35,6 +35,7 @@ Technologies Used :
 HTML: Structure of the website.
 CSS: Styling and layout.
 JavaScript: Interactive loader and functionality.
+<<<<<<< HEAD
 
 Innovative Feature
 
@@ -45,3 +46,5 @@ Color Palette and Visual Appeal
 This project utilizes a carefully selected color palette of light blue and purple, designed to create a modern and professional aesthetic. You can explore the full palette and its details through the following URL:["https://coolors.co/palette/5465ff-788bff-9bb1ff-bfd7ff-e2fdff"]
 The design is consistent, harmonious, and aligns with the portfolio's creative theme, enhancing usability and engagement.
 
+=======
+>>>>>>> 152b3552e57234f411573353bda800aec4f1c410
